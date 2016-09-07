@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dlawr/codeShipDemo/issues"
   },
-  "homepage": "https://github.com/dlawr/codeShipDemo#readme"
+  "homepage": "https://github.com/dlawr/codeShipDemo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
